@@ -6,6 +6,8 @@
 - 👴 I have a big experience with Web APIs
 - 🧶 I can smell codes and i hate spaghetti ones
 
+![trophies](https://github-profile-trophy.vercel.app/?username=engboustani)
+
 <!--
 **engboustani/engboustani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
